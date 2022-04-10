@@ -24,6 +24,7 @@
 
 
 ## El Ahorcado :
+![Ahorcado_By_JulioCj7](https://user-images.githubusercontent.com/81049859/162636992-dc355790-dfe6-429a-b88e-e515c8cc3ab8.png)
 
 
 ## AhorcadoCj7 :
