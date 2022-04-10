@@ -28,7 +28,7 @@
 
 
 ## AhorcadoCj7 :
-* Mata el tiempo y **divierteté** jugando este simple y sencillo juego xD.
+* Mata el tiempo y **diviertete** jugando este simple y sencillo juego xD.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
 
