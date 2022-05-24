@@ -24,7 +24,8 @@
 
 
 ## El Ahorcado :
-![Ahorcado_By_JulioCj7](https://user-images.githubusercontent.com/81049859/162636992-dc355790-dfe6-429a-b88e-e515c8cc3ab8.png)
+![Screenshot_20220523-214458_Termux](https://user-images.githubusercontent.com/81049859/169932205-5f694141-9753-4b7e-8ed0-e2cbed0a4891.png)
+
 
 
 ## AhorcadoCj7 :
