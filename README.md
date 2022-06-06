@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,11 +21,8 @@
 
 </details>
 
-
 ## El Ahorcado :
 ![Screenshot_20220523-214458_Termux](https://user-images.githubusercontent.com/81049859/169932205-5f694141-9753-4b7e-8ed0-e2cbed0a4891.png)
-
-
 
 ## AhorcadoCj7 :
 * Mata el tiempo y **diviertete** jugando este simple y sencillo juego xD.
@@ -41,8 +37,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/AhorcadoCj7`
 
 * `cd AhorcadoCj7`
