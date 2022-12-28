@@ -23,7 +23,7 @@
 </details>
 
 ## El Ahorcado :
-![Screenshot_20220523-214458_Termux](https://user-images.githubusercontent.com/81049859/169932205-5f694141-9753-4b7e-8ed0-e2cbed0a4891.png)
+![Screenshot_20221228-153619_Termux](https://user-images.githubusercontent.com/81049859/209864127-bc294e33-1d44-4bca-8253-e073aa1c24a0.png)
 
 ## AhorcadoCj7 :
 * Mata el tiempo y **diviertete** jugando este simple y sencillo juego xD.
