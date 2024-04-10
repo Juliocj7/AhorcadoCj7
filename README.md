@@ -22,11 +22,11 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 </details>
 
-## El Ahorcado :
-![Screenshot_20221228-153619_Termux](https://user-images.githubusercontent.com/81049859/209864127-bc294e33-1d44-4bca-8253-e073aa1c24a0.png)
+## Interfaz :
+![1000328396](https://github.com/Juliocj7/AhorcadoCj7/assets/81049859/3d4878c1-bf00-467a-8a71-b7fd09b292d0)
 
 ## AhorcadoCj7 :
-* Mata el tiempo y **diviertete** jugando este simple y sencillo juego xD.
+* Mata el tiempo y **diviértete** jugando este simple y sencillo juego xD.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
 
@@ -47,7 +47,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `chmod +x *`
 
-* `python AhorcadoCj7.py`
+* `./AhorcadoCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
