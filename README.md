@@ -42,7 +42,7 @@ ______________________________________________________
   </details>
 </div>
 
-## Interfaz :
+## Interfaz del Juego :
 ![1000328396](https://github.com/Juliocj7/AhorcadoCj7/assets/81049859/3d4878c1-bf00-467a-8a71-b7fd09b292d0)
 
 ## AhorcadoCj7 :
@@ -54,17 +54,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/AhorcadoCj7`
-
-* `cd AhorcadoCj7`
-
-* `chmod +x *`
-
-* `./AhorcadoCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/AhorcadoCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd AhorcadoCj7 && chmod +x * && ./AhorcadoCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
