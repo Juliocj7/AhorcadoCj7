@@ -45,11 +45,11 @@
 ![1000536688](https://github.com/user-attachments/assets/c79eda04-1394-4acd-84f2-8481358affee)
 
 ## AhorcadoCj7 :
-* Mata el tiempo y **diviértete** jugando este simple y sencillo juego xD.
-* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
+* Disfruta y diviértete jugando este simple y sencillo juego xD.
+* El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva y totalmente mía <img alt="i-boycute" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-boycute.png" width="20" height="20" />
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
-# Instalación :
+## Instalación :
 > [!NOTE]
 > > <details>
 > >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
