@@ -42,7 +42,7 @@
 </div>
 
 ## Interfaz Principal :
-![1000536688](https://github.com/user-attachments/assets/c79eda04-1394-4acd-84f2-8481358affee)
+[![1000536688](https://github.com/user-attachments/assets/c79eda04-1394-4acd-84f2-8481358affee)](#---)
 
 ## AhorcadoCj7 :
 * Disfruta y diviértete jugando este simple y sencillo juego xD.
